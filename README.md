@@ -223,17 +223,7 @@ CULTURE Main
 
 ---
 
-# Roadmap
-
-Version 0.1
-- Variables
-- Input/Output
-- Arithmetic
-- Conditions
-- Arrays
-- Functions
-
-Future:
+# InshaAllah Features That Will Be Added In Future:
 - Loops
 - Classes
 - Modules
