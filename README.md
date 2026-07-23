@@ -1,4 +1,4 @@
-# BioLang Documentation (v0.1 Draft)
+# BioLang Documentation
 
 # Introduction
 
