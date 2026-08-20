@@ -1,0 +1,3 @@
+#MEMORY OF DOCTOR 👨‍⚕️ 
+
+VARIABLES = {}

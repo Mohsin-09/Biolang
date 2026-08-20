@@ -1,0 +1,5 @@
+INOCULUM_CHAIN scores = [10, 20, 30].
+
+EXCRETION(scores[0]).
+EXCRETION(scores[1]).
+EXCRETION(scores[2]).
